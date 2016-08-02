@@ -1,6 +1,6 @@
 # VVPikeView
 自定义PickView
-(http://github.com/Easyzhan/your-VVPickView/raw/master/picker.gif)
+![image](https://github.com/Easyzhan/VVPickView/master/picker.gif )   
 
 要自己设定的：yourname, your-repository, your-folder, xxx.png。
 
